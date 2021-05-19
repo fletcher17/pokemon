@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="base_experience">Base Experience: %1$d</string>
+    <string name="game_index">Game Index: %1$d</string>
+    <string name="base_stat">Base Stats: %1$d</string>
+</resources>
